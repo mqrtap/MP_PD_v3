@@ -1,0 +1,10 @@
+Z:\programesana\MP_PD_v3\MP_PD_v3\obj\Debug\MP_PD_v3.csprojAssemblyReference.cache
+Z:\programesana\MP_PD_v3\MP_PD_v3\obj\Debug\MP_PD_v3.Form1.resources
+Z:\programesana\MP_PD_v3\MP_PD_v3\obj\Debug\MP_PD_v3.Properties.Resources.resources
+Z:\programesana\MP_PD_v3\MP_PD_v3\obj\Debug\MP_PD_v3.csproj.GenerateResource.cache
+Z:\programesana\MP_PD_v3\MP_PD_v3\obj\Debug\MP_PD_v3.csproj.CoreCompileInputs.cache
+Z:\programesana\MP_PD_v3\MP_PD_v3\bin\Debug\MP_PD_v3.exe.config
+Z:\programesana\MP_PD_v3\MP_PD_v3\bin\Debug\MP_PD_v3.exe
+Z:\programesana\MP_PD_v3\MP_PD_v3\bin\Debug\MP_PD_v3.pdb
+Z:\programesana\MP_PD_v3\MP_PD_v3\obj\Debug\MP_PD_v3.exe
+Z:\programesana\MP_PD_v3\MP_PD_v3\obj\Debug\MP_PD_v3.pdb
